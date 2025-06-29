@@ -1,4 +1,6 @@
-# Digital Drifting: Tracing the Convergence of Digital Access Across U.S. Regions, 2013–2023
+# Digital Drifting
+
+### Tracing the Convergence of Digital Access Across U.S. Regions, 2013–2023
 
 This repo contains all experimental code for the ECON4331W writing project. 
 - data_processing: this folder contains the data processing pipeline for the project.
